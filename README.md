@@ -14,7 +14,7 @@
 	       BDUSS=xxxxxxxxx; STOKEN=xxxxxxxxx
 	       BDUSS=xxxxxxxxx
 	       ```
-* 3 添加完"Secrets"后，进入"Actions" --》"run sign"，点击右边的"Run workflow"即可首次运行
+* 3 添加完"Secrets"   后，进入"Actions" --》"run sign"，点击右边的"Run workflow"即可首次运行
 * 4 以后会每天早上8点自动运行
 
 
