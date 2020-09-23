@@ -6,6 +6,7 @@ name: 'run sign'
 # events but only for the master branch
 on:
   schedule:
+    - cron: '0 20 * * *'
     - cron: '0 23 * * *' #上午10点执行
   workflow_dispatch:
 
